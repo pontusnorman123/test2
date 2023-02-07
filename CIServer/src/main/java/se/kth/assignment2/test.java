@@ -5,5 +5,6 @@ public class test {
     double yt;
     double v;
     double b;
+    double dg;
 
 }
