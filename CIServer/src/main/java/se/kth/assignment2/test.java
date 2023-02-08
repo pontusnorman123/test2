@@ -4,4 +4,5 @@ public class test {
     double x;
     double y;
     double b;
+    double bv;
 }
